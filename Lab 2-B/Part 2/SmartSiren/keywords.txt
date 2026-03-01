@@ -1,0 +1,6 @@
+SmartSiren  KEYWORD1
+fire	KEYWORD2
+ambulance	KEYWORD2
+police	KEYWORD2
+stop	KEYWORD2
+update	KEYWORD2
